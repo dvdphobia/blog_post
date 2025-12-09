@@ -1,13 +1,11 @@
 ---
-title: Hello World
+title: Is Trading Gambling? My Honest 3-Year Journey From Chaos to Consistency
 date: 2025-12-10
 excerpt: Is trading really gambling? After 3 years of highs and lows, I break down the thin line between being a trader and a gambler, and how to master the mental game.
 image: https://raw.githubusercontent.com/dvdphobia/blog_post/refs/heads/main/img/is_trading_gambling.webp
 tags: [trading, Trading Journey, Trading Strategy]
 ---
 
-
-# Is Trading Gambling? My Honest 3-Year Journey From Chaos to Consistency
 
 "Trading isn't gambling; it's a business."
 
