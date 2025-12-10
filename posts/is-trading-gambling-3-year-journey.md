@@ -13,9 +13,11 @@ I heard that phrase a thousand times during my first month of trading. Mentors s
 
 After three years of staring at charts, losing sleep, and eventually finding my footing, I have a different opinion.
 
+![is_trading_gambling](https://raw.githubusercontent.com/dvdphobia/blog_post/refs/heads/main/img/image.png)
+
 **Trading is absolutely gambling.**
 
-But it isn’t a gamble against the market. We don’t know the outcome of any single trade—that is a probabilistic fact. The real gamble isn't whether the price goes up or down. **The gamble is against your own mind.**
+But it isn’t a gamble against the market. We don’t know the outcome of any single trade that is a probabilistic fact. The real gamble isn't whether the price goes up or down. **The gamble is against your own mind.**
 
 Here is the reality of my 3-year trading journey, and why accepting the "gamble" was the only thing that made me profitable.
 
