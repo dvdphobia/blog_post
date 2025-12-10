@@ -108,3 +108,19 @@ After three years, I’m not a millionaire yet, but I am no longer a gambler. I 
 
 If you are on this journey, forgive yourself for the gambling phase. We all go through it. Just make sure you don't stay there.
 
+
+
+role: staff
+- register 
+last name 
+sur name
+date of bird 
+plat of birth 
+major
+phone number 
+
+delete
+show list
+    -id
+    -name
+    - sex
