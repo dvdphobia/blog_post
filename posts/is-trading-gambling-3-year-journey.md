@@ -107,20 +107,3 @@ Trading is the hardest way to make easy money. It forces you to look in the mirr
 After three years, I’m not a millionaire yet, but I am no longer a gambler. I am a risk manager. I show up, I place my bets according to my rules, and I let the probabilities play out.
 
 If you are on this journey, forgive yourself for the gambling phase. We all go through it. Just make sure you don't stay there.
-
-
-
-role: staff
-- register 
-last name 
-sur name
-date of bird 
-plat of birth 
-major
-phone number 
-
-delete
-show list
-    -id
-    -name
-    - sex
