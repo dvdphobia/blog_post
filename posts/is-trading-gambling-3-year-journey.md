@@ -23,6 +23,8 @@ Here is the reality of my 3-year trading journey, and why accepting the "gamble"
 
 ## The Textbook Definition vs. Reality
 
+![textbook_vs_reality](https://raw.githubusercontent.com/dvdphobia/blog_post/refs/heads/main/img/textbook_vs_reality.png)
+
 Before I share my story, let's look at what the financial industry *wants* you to believe. This is a hot topic among financial enthusiasts, and usually, the distinction is drawn quite clearly:
 
 * **Trading** involves buying and selling financial instruments (stocks, commodities, currencies) with the aim of making a profit. It is rooted in economic principles and relies heavily on market analysis and financial data.
